@@ -8,7 +8,7 @@
 
 # Overview
 
-This project is an answer ot the first task posed to me by the Air Quality Predictions team. The solution involves one central Python file that is run by `script.sh`, and is run regularly with the use of a cron job. Because cron jobs are not easily distributed through version control, I have provided detailed instructions below on how one would use this system in practice the same way it is set up on my current machine.
+This project is an answer to the first task posed to me by the Air Quality Predictions team. The solution involves one central Python file that is run by `script.sh`, and is run regularly with the use of a cron job. Because cron jobs are not easily distributed through version control, I have provided detailed instructions below on how one would use this system in practice the same way it is set up on my current machine.
 
 # Implementation
 
