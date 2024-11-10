@@ -2,7 +2,7 @@
   
 # Air Quality Task [![Email](https://img.shields.io/badge/EMAIL-mintjjc%40gmail.com-93BFCF?style=flat&logoSize=auto&labelColor=EEE9DA)](mailto:mintjjc@gmail.com)
 
-[Overview](#overview) • [`nvim`](#implementation)
+[Overview](#overview) • [Implementation](#implementation)
 
 </div>
 
